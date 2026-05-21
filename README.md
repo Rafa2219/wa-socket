@@ -187,7 +187,7 @@ const config = {
     prefix: "/",                     // Command prefix
     owner: "",                       // Owner display name
     ownerLid: "",                    // Owner LID (unique identifier)
-    phoneNumber: "50255912498",      // Bot phone number
+    phoneNumber: "50212345678",      // Bot phone number
     admins: []                       // Array of admin phone numbers
   },
   whatsapp: {
