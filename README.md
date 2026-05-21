@@ -238,7 +238,7 @@ Solicitando código para 50255912498
 🟢 [CODE] XXXX-XXXX-XXXX-XXXX
 🔵 [INFO] Esperando confirmación...
 🟢 [ÉXITO] Conexión establecida.
-Bot conectado: 50255912498
+Bot conectado: 50212345678
 ```
 
 ---
