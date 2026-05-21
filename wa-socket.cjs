@@ -61,7 +61,7 @@ const {
             prefix: "/",
             owner: "",
             ownerLid: "",
-            phoneNumber: "50255912498",
+            phoneNumber: "50212345678",
             admins: []
         },
 
